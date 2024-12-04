@@ -1,0 +1,62 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a{
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+nav a:hover{
+    color: gray;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 18px;
+}
+nav{
+    background-color: rgb(75, 75, 255);
+    padding: 10px;
+    margin: -8px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    max-width: 100%;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 50px;
+}
+.main-img{
+    object-fit: cover;
+}
+.content{
+    margin: auto;
+    max-width: 600px;
+}
+.card img{
+    width: 200px;
+}
+.card{
+    display: grid;
+    grid-template-columns: 200px 300px;
+    gap: 5px;
+    margin: 5px;
+}
+
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5%;
+    justify-content:left;
+}
