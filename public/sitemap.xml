@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/economy/us-economy/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/economy/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/elections/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/economy/nyc-economy/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/economy/obamas-economy/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/economy/trumps-economy/</loc>
+    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/foreign-policy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/policy-and-legislation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/social-issues/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
