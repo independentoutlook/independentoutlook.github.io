@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>foreign policy on My New Hugo Site</title>
-    <link>http://localhost:1313/foreign-policy/</link>
-    <description>Recent content in foreign policy on My New Hugo Site</description>
+    <title>foreign policy on Independentoutlook</title>
+    <link>https://independentoutlook.github.io/foreign-policy/</link>
+    <description>Recent content in foreign policy on Independentoutlook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/foreign-policy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://independentoutlook.github.io/foreign-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
