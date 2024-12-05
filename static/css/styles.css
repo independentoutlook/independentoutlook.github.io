@@ -26,7 +26,8 @@ nav{
     justify-content: center;
 }
 img{
-    max-width: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 h1{
     text-align: center;
@@ -34,7 +35,7 @@ h1{
     font-size: 50px;
 }
 .main-img{
-    object-fit: cover;
+   justify-content: center;
 }
 .content{
     margin: auto;
