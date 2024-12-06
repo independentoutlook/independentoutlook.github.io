@@ -5,6 +5,9 @@ a{
     text-decoration: none;
     color: black;
 }
+footer{
+    margin-top: 30px;
+}
 nav a{
     color: white;
     font-size: 15px;
@@ -33,13 +36,21 @@ h1{
     text-align: center;
     color: darkblue;
     font-size: 50px;
+    line-height: 40px;
+}
+h2{
+    text-align: center;
 }
 .main-img{
-   justify-content: center;
+    justify-content: center;
+    height: 400px;
+    position: relative;
+    z-index: -3;
 }
 .content{
     margin: auto;
-    max-width: 600px;
+    width: 90%;
+    max-width: 800px;
 }
 .card img{
     width: 200px;
@@ -59,5 +70,30 @@ h1{
     display: flex;
     flex-wrap: wrap;
     margin: 5%;
-    justify-content:left;
+    justify-content: center;
+    max-width: 1100px;
+    margin: auto;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    
+}
+.sidebar{
+    position: sticky;
+    width: 250px;
+    background-color:rgb(75, 75, 255);
+    top: 50px;
+    left: 10px;
+    z-index: 1000;
+    padding: 10px;
+    height: 500px;
+}
+.sidebar li a{
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+}
+.sidebar-content{
+    display: flex;
 }

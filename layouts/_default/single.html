@@ -1,6 +1,42 @@
 {{ define "main" }}
-    <div class="content">
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
+    <div class="sidebar-content">
+        <div style="margin-top: 100px">{{ partial "sidebar.html" .}}</div>
+        <div class="content">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
     </div>
+    
+
+
+    <section>
+        <h2>Related Articles</h2>
+        <div class="container">
+            {{ $section := .Section }}
+            {{ range (where (where .Site.Pages "Section" $section) "Kind" "page")}}
+            
+
+            <a href="{{ .Permalink }}"><div class="card">
+                <div>
+                {{ if .Params.featured_image }}
+                    <img src="{{ .Params.featured_image }}">
+                {{ else }}
+                    <img src="/images/default.webp">  
+                {{ end }}
+                </div>
+                <div>
+                    <a class="card-title" href="{{ .Permalink }}">{{ .Title }}</a>
+                    {{ if .Params.short_summary }}
+                    <p>{{ .Params.short_summary }}</p>
+                    {{else}}
+                    <p></p>
+                    {{end}}
+                </div>
+            </div></a>
+
+            {{ else }}
+            <p>No related articles found.</p>
+            {{ end }}
+        </div>
+    </section>
 {{ end }}
