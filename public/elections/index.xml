@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Election on Independentoutlook</title>
-    <link>http://localhost:1313/elections/</link>
+    <link>https://independentoutlook.github.io/elections/</link>
     <description>Recent content in Election on Independentoutlook</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/elections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://independentoutlook.github.io/elections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2008 Election</title>
-      <link>http://localhost:1313/elections/2008-election/</link>
+      <link>https://independentoutlook.github.io/elections/2008-election/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elections/2008-election/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2008-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2008 U.S. presidential election, held on November 4, 2008, was a landmark event that captured global attention. It featured Democratic Senator Barack Obama of Illinois and Republican Senator John McCain of Arizona. Barack Obama’s victory made him the first African American president in U.S. history, symbolizing a significant moment in the nation&amp;rsquo;s ongoing journey toward racial equality.&lt;/p&gt;</description>
+      <guid>https://independentoutlook.github.io/elections/2008-election/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://independentoutlook.github.io/images/2008-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2008 U.S. presidential election, held on November 4, 2008, was a landmark event that captured global attention. It featured Democratic Senator Barack Obama of Illinois and Republican Senator John McCain of Arizona. Barack Obama’s victory made him the first African American president in U.S. history, symbolizing a significant moment in the nation&amp;rsquo;s ongoing journey toward racial equality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2012 Election</title>
-      <link>http://localhost:1313/elections/2012-election/</link>
+      <link>https://independentoutlook.github.io/elections/2012-election/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elections/2012-election/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2012-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2012 U.S. presidential election, held on November 6, 2012, was a historic contest between Democratic incumbent President Barack Obama and Republican challenger Mitt Romney. Barack Obama sought reelection following a challenging first term marked by economic struggles, healthcare reform, and foreign policy decisions. Mitt Romney, the former governor of Massachusetts, represented the Republican Party with a campaign focused on economic recovery, reducing the national debt, and critiquing Obama’s policies.&lt;/p&gt;</description>
+      <guid>https://independentoutlook.github.io/elections/2012-election/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://independentoutlook.github.io/images/2012-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2012 U.S. presidential election, held on November 6, 2012, was a historic contest between Democratic incumbent President Barack Obama and Republican challenger Mitt Romney. Barack Obama sought reelection following a challenging first term marked by economic struggles, healthcare reform, and foreign policy decisions. Mitt Romney, the former governor of Massachusetts, represented the Republican Party with a campaign focused on economic recovery, reducing the national debt, and critiquing Obama’s policies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2016 Election</title>
-      <link>http://localhost:1313/elections/2016-election/</link>
+      <link>https://independentoutlook.github.io/elections/2016-election/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elections/2016-election/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2016-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2016 U.S. presidential election was held on November 8, 2016, and featured a highly polarizing contest between Republican nominee Donald J. Trump and Democratic nominee Hillary Clinton. Trump, a businessman and television personality, was a political outsider, while Clinton, a former Secretary of State, was a seasoned politician.&lt;/p&gt;</description>
+      <guid>https://independentoutlook.github.io/elections/2016-election/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://independentoutlook.github.io/images/2016-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2016 U.S. presidential election was held on November 8, 2016, and featured a highly polarizing contest between Republican nominee Donald J. Trump and Democratic nominee Hillary Clinton. Trump, a businessman and television personality, was a political outsider, while Clinton, a former Secretary of State, was a seasoned politician.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020 Election</title>
-      <link>http://localhost:1313/elections/2020-election/</link>
+      <link>https://independentoutlook.github.io/elections/2020-election/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/elections/2020-election/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2020-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2020 U.S. presidential election took place on November 3, 2020, amidst the COVID-19 pandemic and heightened political tensions. The election was one of the most contentious in U.S. history, with high voter turnout and a record number of mail-in ballots due to the pandemic. The primary candidates were the incumbent Republican President Donald J. Trump and Democratic challenger Joseph R. Biden Jr., who had served as Vice President under President Barack Obama.&lt;/p&gt;</description>
+      <guid>https://independentoutlook.github.io/elections/2020-election/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://independentoutlook.github.io/images/2020-election.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2020 U.S. presidential election took place on November 3, 2020, amidst the COVID-19 pandemic and heightened political tensions. The election was one of the most contentious in U.S. history, with high voter turnout and a record number of mail-in ballots due to the pandemic. The primary candidates were the incumbent Republican President Donald J. Trump and Democratic challenger Joseph R. Biden Jr., who had served as Vice President under President Barack Obama.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
