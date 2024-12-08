@@ -1,5 +1,5 @@
 ---
-title: us economy
+title: US Economy
 date: 2024-12-03
 featured_image: "/images/us-economy.webp"
 short_summary: "The U.S. economy is diverse, driven by consumption, innovation, and global trade."

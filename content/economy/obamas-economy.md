@@ -1,5 +1,5 @@
 ---
-title: obamas economy
+title: Obamas Economy
 date: 2024-12-02
 featured_image: "/images/obama.webp"
 short_summary: "Obama's economy focused on recovery, healthcare reform, job creation, and financial stabilization."

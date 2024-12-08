@@ -1,5 +1,5 @@
 ---
-title: trumps economy
+title: Trumps Economy
 date: 2024-12-02
 featured_image: "/images/trump.webp"
 short_summary: "Trump's economy featured growth, tax cuts, deregulation, trade tensions, and pandemic challenges."

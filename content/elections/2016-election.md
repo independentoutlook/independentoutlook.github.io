@@ -1,5 +1,5 @@
 ---
-title: 2016 election
+title: 2016 Election
 date: 2024-12-02
 featured_image: "/images/2016-election.webp"
 short_summary: "Trump wins presidency, defying polls and flipping key states."

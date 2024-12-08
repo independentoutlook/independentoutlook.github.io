@@ -1,3 +1,3 @@
 ---
-title: policy and legislation
+title: Policy And Legislation
 ---

@@ -1,3 +1,3 @@
 ---
-title: foreign policy
+title: Foreign Policy
 ---

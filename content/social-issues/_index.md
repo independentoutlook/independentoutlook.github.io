@@ -1,3 +1,3 @@
 ---
-title: social issues
+title: Social Issues
 ---

@@ -1,5 +1,5 @@
 ---
-title: nyc economy
+title: NYC Economy
 date: 2024-12-02
 featured_image: "/images/nyc.webp"
 short_summary: "NYC's economy thrives on finance, real estate, tech, tourism, healthcare, and culture."

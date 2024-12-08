@@ -1,5 +1,5 @@
 ---
-title: 2020 election
+title: 2020 Election
 date: 2024-12-02
 featured_image: "/images/2020-election.webp"
 short_summary: " Biden defeats Trump, record mail-in votes amidst COVID-19."
