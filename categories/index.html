@@ -12,11 +12,43 @@
    <li><a href="/">Home</a></li>
    <li><a href="/elections/">Elections</a></li>
    <li><a href="/economy/">Economy</a></li>
-   <li><a href="/foreign-policy/">Foreign Policy</a></li> 
+   <li><a href="/foreign-policy/">Foreign Policy</a></li>
    <li><a href="/social-issues/">Social Issues</a></li>
    <li><a href="/policy-and-legislation/">Policy And Legislation</a></li>
  </ul>
 </nav>
+
+
+<div class="off-screen-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/elections/">Elections</a></li>
+      <li><a href="/economy/">Economy</a></li>
+      <li><a href="/foreign-policy/">Foreign Policy</a></li>
+      <li><a href="/social-issues/">Social Issues</a></li>
+      <li><a href="/policy-and-legislation/">Policy And Legislation</a></li> 
+    </ul>
+</div>
+<div>
+    <div class="ham-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<script>
+const hamMenu = document.querySelector(".ham-menu");
+const offScreenMenu = document.querySelector(".off-screen-menu");
+
+hamMenu.addEventListener("click", () => {
+  hamMenu.classList.toggle("active");
+  offScreenMenu.classList.toggle("active");
+});
+
+</script>
+
+
     <h1>Independent Outlook</h1>
     
 
