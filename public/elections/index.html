@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>Election</title>
@@ -12,11 +12,43 @@
    <li><a href="/">Home</a></li>
    <li><a href="/elections/">Elections</a></li>
    <li><a href="/economy/">Economy</a></li>
-   <li><a href="/foreign-policy/">Foreign Policy</a></li> 
+   <li><a href="/foreign-policy/">Foreign Policy</a></li>
    <li><a href="/social-issues/">Social Issues</a></li>
    <li><a href="/policy-and-legislation/">Policy And Legislation</a></li>
  </ul>
 </nav>
+
+
+<div class="off-screen-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/elections/">Elections</a></li>
+      <li><a href="/economy/">Economy</a></li>
+      <li><a href="/foreign-policy/">Foreign Policy</a></li>
+      <li><a href="/social-issues/">Social Issues</a></li>
+      <li><a href="/policy-and-legislation/">Policy And Legislation</a></li> 
+    </ul>
+</div>
+<div>
+    <div class="ham-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<script>
+const hamMenu = document.querySelector(".ham-menu");
+const offScreenMenu = document.querySelector(".off-screen-menu");
+
+hamMenu.addEventListener("click", () => {
+  hamMenu.classList.toggle("active");
+  offScreenMenu.classList.toggle("active");
+});
+
+</script>
+
+
     <h1>Independent Outlook</h1>
     
 
@@ -26,72 +58,72 @@
     <div class="sidebar-content">
         <ul class="sidebar">
     
-        <li><a href="http://localhost:1313/economy/">Economy</a></li>
+        <li><a href="https://independentoutlook.github.io/economy/">Economy</a></li>
     
-        <li><a href="http://localhost:1313/elections/">Election</a></li>
+        <li><a href="https://independentoutlook.github.io/elections/">Election</a></li>
     
-        <li><a href="http://localhost:1313/foreign-policy/">Foreign Policy</a></li>
+        <li><a href="https://independentoutlook.github.io/foreign-policy/">Foreign Policy</a></li>
     
-        <li><a href="http://localhost:1313/policy-and-legislation/">Policy And Legislation</a></li>
+        <li><a href="https://independentoutlook.github.io/policy-and-legislation/">Policy And Legislation</a></li>
     
-        <li><a href="http://localhost:1313/social-issues/">Social Issues</a></li>
+        <li><a href="https://independentoutlook.github.io/social-issues/">Social Issues</a></li>
     
 </ul>
 
         <div class="container">
         
-            <a href="http://localhost:1313/elections/2008-election/"><div class="card">
+            <a href="https://independentoutlook.github.io/elections/2008-election/"><div class="card">
                 <div>
                 
                     <img src="/images/2008-election.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/elections/2008-election/">2008 Election</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/elections/2008-election/">2008 Election</a>
                     
-                    <p>Obama’s historic win emphasized hope, change, diversity, economic recovery, and grassroots mobilization.</p>
+                    <a href="https://independentoutlook.github.io/elections/2008-election/">Obama’s historic win emphasized hope, change, diversity, economic recovery, and grassroots mobilization.</a>
                     
                 </div>
           </div></a>
         
-            <a href="http://localhost:1313/elections/2012-election/"><div class="card">
+            <a href="https://independentoutlook.github.io/elections/2012-election/"><div class="card">
                 <div>
                 
                     <img src="/images/2012-election.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/elections/2012-election/">2012 Election</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/elections/2012-election/">2012 Election</a>
                     
-                    <p>Obama won with coalition-building, economic focus, healthcare defense, and demographic appeal.</p>
+                    <a href="https://independentoutlook.github.io/elections/2012-election/">Obama won with coalition-building, economic focus, healthcare defense, and demographic appeal.</a>
                     
                 </div>
           </div></a>
         
-            <a href="http://localhost:1313/elections/2016-election/"><div class="card">
+            <a href="https://independentoutlook.github.io/elections/2016-election/"><div class="card">
                 <div>
                 
                     <img src="/images/2016-election.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/elections/2016-election/">2016 Election</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/elections/2016-election/">2016 Election</a>
                     
-                    <p>Trump wins presidency, defying polls and flipping key states.</p>
+                    <a href="https://independentoutlook.github.io/elections/2016-election/">Trump wins presidency, defying polls and flipping key states.</a>
                     
                 </div>
           </div></a>
         
-            <a href="http://localhost:1313/elections/2020-election/"><div class="card">
+            <a href="https://independentoutlook.github.io/elections/2020-election/"><div class="card">
                 <div>
                 
                     <img src="/images/2020-election.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/elections/2020-election/">2020 Election</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/elections/2020-election/">2020 Election</a>
                     
-                    <p> Biden defeats Trump, record mail-in votes amidst COVID-19.</p>
+                    <a href="https://independentoutlook.github.io/elections/2020-election/"> Biden defeats Trump, record mail-in votes amidst COVID-19.</a>
                     
                 </div>
           </div></a>

@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
  <meta charset="utf-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <title>US Economy</title>
@@ -12,26 +12,58 @@
    <li><a href="/">Home</a></li>
    <li><a href="/elections/">Elections</a></li>
    <li><a href="/economy/">Economy</a></li>
-   <li><a href="/foreign-policy/">Foreign Policy</a></li> 
+   <li><a href="/foreign-policy/">Foreign Policy</a></li>
    <li><a href="/social-issues/">Social Issues</a></li>
    <li><a href="/policy-and-legislation/">Policy And Legislation</a></li>
  </ul>
 </nav>
+
+
+<div class="off-screen-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/elections/">Elections</a></li>
+      <li><a href="/economy/">Economy</a></li>
+      <li><a href="/foreign-policy/">Foreign Policy</a></li>
+      <li><a href="/social-issues/">Social Issues</a></li>
+      <li><a href="/policy-and-legislation/">Policy And Legislation</a></li> 
+    </ul>
+</div>
+<div>
+    <div class="ham-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<script>
+const hamMenu = document.querySelector(".ham-menu");
+const offScreenMenu = document.querySelector(".off-screen-menu");
+
+hamMenu.addEventListener("click", () => {
+  hamMenu.classList.toggle("active");
+  offScreenMenu.classList.toggle("active");
+});
+
+</script>
+
+
     <h1>Independent Outlook</h1>
     
     <hr>
     <div class="sidebar-content">
         <div style="margin-top: 100px"><ul class="sidebar">
     
-        <li><a href="http://localhost:1313/economy/">Economy</a></li>
+        <li><a href="https://independentoutlook.github.io/economy/">Economy</a></li>
     
-        <li><a href="http://localhost:1313/elections/">Election</a></li>
+        <li><a href="https://independentoutlook.github.io/elections/">Election</a></li>
     
-        <li><a href="http://localhost:1313/foreign-policy/">Foreign Policy</a></li>
+        <li><a href="https://independentoutlook.github.io/foreign-policy/">Foreign Policy</a></li>
     
-        <li><a href="http://localhost:1313/policy-and-legislation/">Policy And Legislation</a></li>
+        <li><a href="https://independentoutlook.github.io/policy-and-legislation/">Policy And Legislation</a></li>
     
-        <li><a href="http://localhost:1313/social-issues/">Social Issues</a></li>
+        <li><a href="https://independentoutlook.github.io/social-issues/">Social Issues</a></li>
     
 </ul>
 </div>
@@ -61,14 +93,14 @@
             
             
 
-            <a href="http://localhost:1313/economy/us-economy/"><div class="card">
+            <a href="https://independentoutlook.github.io/economy/us-economy/"><div class="card">
                 <div>
                 
                     <img src="/images/us-economy.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/economy/us-economy/">US Economy</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/economy/us-economy/">US Economy</a>
                     
                     <p>The U.S. economy is diverse, driven by consumption, innovation, and global trade.</p>
                     
@@ -78,14 +110,14 @@
             
             
 
-            <a href="http://localhost:1313/economy/nyc-economy/"><div class="card">
+            <a href="https://independentoutlook.github.io/economy/nyc-economy/"><div class="card">
                 <div>
                 
                     <img src="/images/nyc.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/economy/nyc-economy/">NYC Economy</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/economy/nyc-economy/">NYC Economy</a>
                     
                     <p>NYC&#39;s economy thrives on finance, real estate, tech, tourism, healthcare, and culture.</p>
                     
@@ -95,14 +127,14 @@
             
             
 
-            <a href="http://localhost:1313/economy/obamas-economy/"><div class="card">
+            <a href="https://independentoutlook.github.io/economy/obamas-economy/"><div class="card">
                 <div>
                 
                     <img src="/images/obama.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/economy/obamas-economy/">Obamas Economy</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/economy/obamas-economy/">Obamas Economy</a>
                     
                     <p>Obama&#39;s economy focused on recovery, healthcare reform, job creation, and financial stabilization.</p>
                     
@@ -112,14 +144,14 @@
             
             
 
-            <a href="http://localhost:1313/economy/trumps-economy/"><div class="card">
+            <a href="https://independentoutlook.github.io/economy/trumps-economy/"><div class="card">
                 <div>
                 
                     <img src="/images/trump.webp">
                 
                 </div>
                 <div>
-                    <a class="card-title" href="http://localhost:1313/economy/trumps-economy/">Trumps Economy</a>
+                    <a class="card-title" href="https://independentoutlook.github.io/economy/trumps-economy/">Trumps Economy</a>
                     
                     <p>Trump&#39;s economy featured growth, tax cuts, deregulation, trade tensions, and pandemic challenges.</p>
                     
