@@ -145,6 +145,9 @@ hr{
         right: 0;
         color: white;
     }
+    .off-screen-menu ul li a{
+        color: white;
+    }
 
     .ham-menu {
         height: 50px;
