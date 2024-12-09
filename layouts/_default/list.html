@@ -17,7 +17,7 @@
                 <div>
                     <a class="card-title" href="{{ .Permalink }}">{{ .Title }}</a>
                     {{ if .Params.short_summary }}
-                    <a href="{{ .Permalink }}">{{ .Params.short_summary }}</a>
+                    <p><a href="{{ .Permalink }}">{{ .Params.short_summary }}</a></p>
                     {{else}}
                     <p></p>
                     {{end}}
@@ -47,7 +47,7 @@
                 <div>
                     <a class="card-title" href="{{ .Permalink }}">{{ .Title }}</a>
                     {{ if .Params.short_summary }}
-                    <a href="{{ .Permalink }}">{{ .Params.short_summary }}</a>
+                    <p><a href="{{ .Permalink }}">{{ .Params.short_summary }}</a></p>
                     {{else}}
                     <p></p>
                     {{end}}
